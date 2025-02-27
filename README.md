@@ -116,4 +116,4 @@ Develop a web application that closely mimics the user interface and core functi
 ### Frontend Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Spreadsheet.git
+   git clone https://github.com/yourusername/Spreadsheet_app.git
