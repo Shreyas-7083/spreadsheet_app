@@ -12,6 +12,7 @@ This project is developed as part of the Zeotap Software Engineer Intern Assignm
 - [Data Structures & Design](#data-structures--design)
 - [Installation & Setup](#installation--setup)
 - [Usage Instructions](#usage-instructions)
+- [Non-Functional Improvements](#non-functional-improvements)
 - [Bonus Features](#bonus-features)
 - [Project Structure](#project-structure)
 - [Additional Notes](#additional-notes)
